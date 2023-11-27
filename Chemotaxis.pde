@@ -1,5 +1,5 @@
 Bacterium[] bacteria;
-int nob = 100; //number of bacterium
+int nob = 100; 
 Food aFood;
 
 void setup () {
